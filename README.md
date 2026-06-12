@@ -1,41 +1,53 @@
 # Hi, I'm Tejas Donadkar 👋
+**Software Engineer | Backend Systems | Cloud & Distributed Systems**
 
-## Software Engineer | Backend Development | Cloud & DevOps
+I build scalable backend systems, APIs, and distributed workflows with a focus on reliability, performance, and clean engineering practices. Currently working as a Software Engineer with hands-on experience in backend development, microservices, and cloud-native systems.
 
-I'm passionate about building scalable backend systems, automating infrastructure, and solving complex technical problems. Currently working as a Software Engineer at KFinTech, with expertise in Java Spring Boot, AWS, and DevOps practices.
+## 🚀 What I Do
+- **Backend Development:** Build production-grade APIs and microservices using Java, Python, and Node.js.  
+- **Distributed Systems:** Design and operate systems for asynchronous workflows and high throughput.  
+- **Cloud & Infra:** Architect and run services on AWS (EKS, EC2, S3, IAM) with containerized deployments.  
+- **CI/CD & Automation:** Implement pipelines and automation to improve deployment reliability and developer velocity.  
+- **Performance & Reliability:** Debug production issues, reduce latency, and improve availability.
 
-### 🚀 What I Do
-- **Backend Development:** Build production-grade microservices using Spring Boot and REST APIs
-- **Cloud Infrastructure:** Design and deploy scalable AWS solutions (EC2, RDS, S3, Lambda)
-- **DevOps & Automation:** Implement CI/CD pipelines, containerization with Docker, and infrastructure automation
-- **Database Optimization:** Write optimized SQL queries and design efficient database schemas
-- **Test Automation:** Create comprehensive unit and integration tests achieving 80%+ code coverage
+## 💼 Experience
+**Software Engineer (Backend)** — Slice  
+*Dec 2025 – Present*  
+- Building backend systems for workflow and large-scale operations.  
+- Designing APIs and reliable async processing pipelines.  
+- Driving reliability and performance improvements.
 
-### 💼 Current Role
-**Software Engineer (Backend & QA Automation)** at KFinTech (Sep 2024 - Present)
-- Building scalable backend applications serving 1000+ concurrent requests
-- Reducing API latency by 25% through performance optimization
-- Improving test coverage from 45% to 80%
+**Software Engineer (Backend / Platform)** — KFinTech  
+*Sep 2024 – Dec 2025*  
+- Developed backend services and APIs for high-volume financial systems.  
+- Reduced deployment failures by 35% through CI/CD improvements and safer deployment patterns.  
+- Worked on microservices, cloud infrastructure, and distributed workflows.
 
-### 🎓 Qualifications
-- B.Tech Computer Science, IIIT Nagpur (2024)
-- AWS Certified Solutions Architect – Associate (Jan 2025)
-- Strong foundation in DSA, OOP, System Design, and Microservices Architecture
+## 🎓 Qualifications
+- B.Tech, Computer Science — IIIT Nagpur (2024)  
+- AWS Certified Solutions Architect – Associate (2025)  
+- Strong foundation in DSA, OOP, system design, and microservices architecture
 
-### 🛠️ Tech Stack
-**Languages:** Java, Python, C, JavaScript, SQL, Bash  
-**Frameworks:** Spring Boot, Spring Security, REST APIs, JUnit, Mockito  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), Docker, Jenkins, GitHub Actions, Kubernetes basics  
-**Tools:** Git, Linux, Maven, Terraform basics
+## 🛠️ Tech Stack
+- **Languages:** Java, Python, JavaScript, Go, SQL  
+- **Backend:** REST APIs, Microservices, Async processing, Message queues (Kafka)  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+- **Cloud & Infra:** AWS (EKS, EC2, S3, IAM), Docker, Kubernetes, Terraform  
+- **CI/CD & Tools:** Git, GitHub Actions, Jenkins, Linux, Terraform
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thdonadkar413&show_icons=true&theme=dark)
+## 📊 GitHub Stats
+![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thdonadkar&show_icons=true)
 
-### 🔗 Let's Connect
-- **LinkedIn:** [linkedin.com/in/tejas-donadkar-a793301b7](https://linkedin.com/in/tejas-donadkar-a793301b7)
-- **Email:** thdonadkar413@gmail.com
-- **Location:** Hyderabad, India
+## 🧠 Interests
+- Distributed systems & system design  
+- Backend scalability & performance engineering  
+- Observability, reliability engineering, and AI-driven backend tooling
 
-### 📝 Featured Projects
-Below are some of my key projects showcasing backend development, DevOps, and cloud skills.
+## 🔗 Connect
+- LinkedIn: [https://linkedin.com/in/tejas-donadkar-a793301b7](https://linkedin.com/in/tejas-donadkar-a793301b7)  
+- Email: [thdonadkar413@gmail.com](mailto:thdonadkar413@gmail.com)  
+- Location: Bengaluru, India
+
+## 📝 Featured Projects
+*(Recommended: add 2–4 pinned repos showing one API/service, one systems/design project, and one infra/automation repo.)*  
+- Example ideas: high-throughput event processing service (Kafka + consumer groups), scalable REST API with autoscaling and CI/CD, infra-as-code repo demonstrating Terraform + EKS.
